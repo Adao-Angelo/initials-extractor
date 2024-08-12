@@ -93,8 +93,3 @@ If you have any questions or suggestions, feel free to open an issue or send an 
 
 
 Thank you for using **initials-extractor!**
-
-```csharp
-
-This README provides comprehensive information on installation, usage, configuration, contribution, and licensing for the package.
-```
