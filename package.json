@@ -1,0 +1,22 @@
+{
+  "name": "initials-extractor",
+  "version": "1.0.0",
+  "description": "A lightweight Node.js package that takes a full name (e.g., Adão Angelo João or Bernardo Silva) and returns the corresponding initials (e.g., AA or BS). Perfect for generating user avatars, profile initials, or any other use case where name abbreviation is needed.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Adão Ângelo João",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "name-initials",
+    "initials-generator",
+    "initials-extract",
+    "get-initials",
+    "name-abbreviator"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
